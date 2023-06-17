@@ -3,7 +3,7 @@
 <h3 align="center">I’m interested in Programming and Developing Applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvk24&label=Profile%20views&color=0e75b6&style=flat" alt="mvk24" /> </p>
-<img align="right" width="400" src="https://github.com/mvk24/mvk24/blob/main/2.gif" alt="welcome">
+<img align="right" width="400" src="img/2.gif" alt="welcome">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvk24" alt="mvk24" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack development**
