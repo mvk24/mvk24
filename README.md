@@ -1,11 +1,9 @@
 <div align="center">
   <img width="500" height="300" src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif" alt="welcome"><br><br>
   <p>
-    <img src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="varun-mithyantha" height="30">
-    <a href="https://linkedin.com/in/varun-mithyantha" target="blank"></a>
+    <a href="https://linkedin.com/in/varun-mithyantha" target="blank"><img src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="varun-mithyantha" height="30"></a>
     <img src="https://komarev.com/ghpvc/?username=mvk24&label=Profile%20views&color=0e75b6&style=flat" alt="mvk24" height="30" /> 
-    <img src="https://camo.githubusercontent.com/ff674c65f83a08b553a2ca4df06a30f3f9106cea8195ea44b5412a2c00c7b5d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2d2d2532462d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d6170707665796f72" alt="mvk24" height="30" />
-       <a href="https://varun-mithyantha.netlify.app/" target="blank"></a>
+    <a href="https://varun-mithyantha.netlify.app/" target="blank"><img src="https://camo.githubusercontent.com/ff674c65f83a08b553a2ca4df06a30f3f9106cea8195ea44b5412a2c00c7b5d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2d2d2532462d6f72616e67653f7374796c653d666f722d7468652d6261646765266c6f676f3d6170707665796f72" alt="mvk24" height="30" /></a>
     </p>
 </div>
       
