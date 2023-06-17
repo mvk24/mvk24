@@ -16,7 +16,6 @@
 
 
 <h2 align="left">Languages and Tools</h2>
-<hr>
 <p align="left">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZH29bHZY2P9nFF-g7Dv8-ESawOHGpfnQNeRUgF808LgfT2S_xoMQhBNbja2KfiDDfMs&usqp=CAU" alt="CSS" width="50" height="50">&nbsp;&nbsp;&nbsp;
@@ -37,13 +36,11 @@
 
 
 <h2 align="left">Databases</h2>
-<hr>
 <p align="left">
 <img src="https://camo.githubusercontent.com/3c84b37dbddb1f597ec1544a7304c4b49abeb3c3ad3d27b7ad91284d10f3c701/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c2c6d6f6e676f6462"></p>
 
 
 <h2 align="left">Others</h2>
-<hr>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/180px-Tux.svg.png" alt="Linux" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50" height="50">&nbsp;&nbsp;&nbsp;
