@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png?f=webp" alt="HTML" width="60" height="60">
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" width="60" height="60">
 <img src="https://img.freepik.com/free-icon/css_318-698167.jpg" alt="CSS" width="60" height="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JS" width="60" height="60">
 
