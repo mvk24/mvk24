@@ -55,7 +55,7 @@
 <br>
 
 <div>
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mvk24&" alt="mvk24" width="400"/></p>
+  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mvk24&" alt="mvk24" width="400" height="300"/></p>
 <!--   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvk24&show_icons=true&locale=en" alt="mvk24" /></p> -->
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mvk24&show_icons=true&locale=en&layout=compact" alt="mvk24" width="400" height="200"/></p>
 </div>
