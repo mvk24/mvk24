@@ -9,12 +9,12 @@
     </p>
 </div>
       
-<h1>Hi 👋, I'm Varun Mithyantha</h1>
+<h1>ನಮಸ್ಕಾರ,<br><br> I'm Varun Mithyantha</h1>
 <h3>I’m interested in Programming and Developing Applications</h3>
 
 - 🌱 I’m currently learning **MERN stack development**
 
-- 📫 Reach me **varun.mithyantha@gmail.com**
+- 📝 Reach me **varun.mithyantha@gmail.com**
 
 
 <h3 align="left">Languages and Tools</h3>
@@ -38,7 +38,7 @@
 <img src="https://pbs.twimg.com/card_img/1667431423458803712/N2AGi-Br?format=jpg&name=small" alt="Express" width="50" height="50"></p>
 
 
-<h3 align="left">Databses</h3>
+<h3 align="left">Databases</h3>
 <hr>
 <p align="left">
 <img src="https://camo.githubusercontent.com/3c84b37dbddb1f597ec1544a7304c4b49abeb3c3ad3d27b7ad91284d10f3c701/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d7973716c2c6d6f6e676f6462"></p>
