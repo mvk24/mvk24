@@ -31,7 +31,7 @@
 
 <p align="left">
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="Node" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="React" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://reactnative.dev/img/header_logo.svg" alt="React" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://pbs.twimg.com/card_img/1667431423458803712/N2AGi-Br?format=jpg&name=small" alt="Express" width="50" height="50"></p>
 
 
