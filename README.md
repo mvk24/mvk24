@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN stack development**
 
-- 📝 Reach me **varun.mithyantha@gmail.com**
+- 📝 Reach out to me **varun.mithyantha@gmail.com**
 
 <br>
 <h2 align="left">Languages and Tools</h2>
