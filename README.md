@@ -10,7 +10,7 @@
 <h1>ನಮಸ್ಕಾರ,<br><br> I'm Varun Mithyantha</h1>
 <h3>I’m interested in Programming and Developing Applications</h3>
 
-- 🌱 I’m currently learning **Application Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📝 Reach out to me **varun.mithyantha@gmail.com**
 
@@ -28,11 +28,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" alt="CPP" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://img.freepik.com/free-icon/android_318-674214.jpg?w=2000" alt="Android" width="50" height="50"></p>
-
-<p align="left">
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="Node" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://reactnative.dev/img/header_logo.svg" alt="React" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://pbs.twimg.com/card_img/1667431423458803712/N2AGi-Br?format=jpg&name=small" alt="Express" width="50" height="50"></p>
 
 <br>
 <h2 align="left">Databases</h2>
