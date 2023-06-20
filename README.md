@@ -10,7 +10,7 @@
 <h1>ನಮಸ್ಕಾರ,<br><br> I'm Varun Mithyantha</h1>
 <h3>I’m interested in Programming and Developing Applications</h3>
 
-- 🌱 I’m currently learning **MERN stack development**
+- 🌱 I’m currently learning **Application Development**
 
 - 📝 Reach out to me **varun.mithyantha@gmail.com**
 
