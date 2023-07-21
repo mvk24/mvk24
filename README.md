@@ -15,7 +15,7 @@
 - 📝 Reach out to me **varun.mithyantha@gmail.com**
 
 <br>
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Languages and Frameworks</h2>
 <p align="left">
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZH29bHZY2P9nFF-g7Dv8-ESawOHGpfnQNeRUgF808LgfT2S_xoMQhBNbja2KfiDDfMs&usqp=CAU" alt="CSS" width="50" height="50">&nbsp;&nbsp;&nbsp;
@@ -25,9 +25,16 @@
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" alt="CPP" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://img.freepik.com/free-icon/android_318-674214.jpg?w=2000" alt="Android" width="50" height="50"></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://e7.pngegg.com/pngimages/123/816/png-clipart-computer-icons-java-%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90-miscellaneous-text.png" alt="Java" width="50" height="50"></p>
+
+<p align="left">
+<img src="https://img.freepik.com/free-icon/android_318-674214.jpg?w=2000" alt="Android" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="React" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://gitlab.com/uploads/-/system/project/avatar/37467835/fastapi.png" alt="Fast API" width="50" height="50"></p>
+
 
 <br>
 <h2 align="left">Databases</h2>
