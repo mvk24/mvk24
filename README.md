@@ -32,7 +32,8 @@
 <p align="left">
 <img src="https://img.freepik.com/free-icon/android_318-674214.jpg?w=2000" alt="Android" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="React" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="50" height="50">&nbsp;&nbsp;&nbsp; -->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqmQvw0Jc4eiSQcQD_8qjjpiN1Lm1YugzX6A&usqp=CAU" alt="Node" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://gitlab.com/uploads/-/system/project/avatar/37467835/fastapi.png" alt="Fast API" width="50" height="50"></p>
 
 
