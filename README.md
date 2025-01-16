@@ -2,9 +2,9 @@
 <!--   <img width="500" height="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="welcome"><br><br> -->
 <img width="500" height="300" src="https://media0.giphy.com/media/13HBDT4QSTpveU/200.gif?cid=6c09b952vqm17dnnx31dgelrnp4eowzco7ii6zudsh9mflpf&ep=v1_gifs_search&rid=200.gif&ct=g" alt="welcome"><br><br>
   <p>
-    <a href="https://linkedin.com/in/varun-mithyantha" target="blank"><img src="https://qph.cf2.quoracdn.net/main-qimg-05f1ceb11a77b68fd6bf72da21b3400c" alt="varun-mithyantha" height="30"></a>
+    <a href="https://linkedin.com/in/varun-mithyantha" target="_blank"><img src="https://qph.cf2.quoracdn.net/main-qimg-05f1ceb11a77b68fd6bf72da21b3400c" alt="varun-mithyantha" height="30"></a>
     <img src="https://komarev.com/ghpvc/?username=mvk24&label=Profile%20views&color=0e75b6&style=flat" alt="mvk24" height="30" /> 
-    <a href="https://varun-mithyantha.netlify.app/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="mvk24" height="30" /></a>
+    <a href="https://varun-mithyantha.netlify.app/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png" alt="mvk24" height="30" /></a>
     </p>
 </div>
       
