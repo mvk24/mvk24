@@ -52,7 +52,7 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/180px-Tux.svg.png" alt="Linux" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="Bash" width="50" height="50">&nbsp;&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2XOHuRidAitUaaEfkehZ7QN9xcub-4r0eg&s" alt="Bash" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" alt="Jenkins" width="50" height="50">&nbsp;&nbsp;&nbsp;
 <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="Docker" width="50" height="50"></p>
 <br>
