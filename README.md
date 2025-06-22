@@ -11,7 +11,7 @@
 <h1>ನಮಸ್ಕಾರ,<br><br> I'm Varun Mithyantha</h1>
 <h3>Jr. Software Engineer @ Cognizant</h3>
 
-- 🌱 I’m currently mastering **Front End Development**
+- 🌱 I’m currently mastering **Back End Development**
 
 - 📝 Reach out to me **varun.mithyantha@gmail.com**
 
@@ -23,21 +23,19 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7gZUAA0T0iDkeX0U8hnA_q9Q3m4akJ1RyhA&s" alt="C#" width="50" height="50">
   </p>
 
+<h4 align="left">Backend:</h4>
+  <p align="left">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsT23K8ZL8CyaQ25YpsG0N4bz_yDh7z1gKgQ&s" alt="Flask" width="50" height="50">&nbsp;&nbsp;&nbsp;
+    <img src="https://gitlab.com/uploads/-/system/project/avatar/37467835/fastapi.png" alt="Fast API" width="50" height="50">
+  </p>
+
+
 <h4 align="left">Front End:</h4>
 <p align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="React" width="50" height="50">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JS" width="50" height="50">&nbsp;&nbsp;&nbsp;
-  <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdxy1c2bvl6odeo52dodk.jpg" alt="tailwind CSS" width="50" height="50">&nbsp;&nbsp;&nbsp;
 </p>
 
-
-
-<h4 align="left">Backend:</h4>
-  <p align="left">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqmQvw0Jc4eiSQcQD_8qjjpiN1Lm1YugzX6A&usqp=CAU" alt="Node" width="50" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="https://gitlab.com/uploads/-/system/project/avatar/37467835/fastapi.png" alt="Fast API" width="50" height="50">
-    <img src="https://himanshuganapavarapu.wordpress.com/wp-content/uploads/2017/07/logo1.png" alt="asp.net" width="50" height="50">
-  </p>
 
 
 <br>
