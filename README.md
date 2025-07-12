@@ -42,7 +42,7 @@
 <h2 align="left">Databases</h2>
   <p align="left">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ik6qo5U4qLH8-QwO7YzoF92pi59tY0BPJQ&usqp=CAU" alt="mysql" width="50" height="50"> &nbsp;&nbsp;&nbsp;
-    <img src="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"></p>
+    <img src="https://icon.icepanel.io/Technology/svg/SQLAlchemy.svg" alt="sqlalchemy" width="50" height="50"></p>
 
 
 <br>
